@@ -1,0 +1,93 @@
+[
+    {
+      "image": "https://ibb.co.com/SdR2j4w",
+      "name": "Rahul Tripathi",
+      "country": "India",
+      "player_role": "Batsman",
+      "rating": 72,
+      "batting_hand": "Right-handed",
+      "market_price": "90,000"
+    },
+    {
+      "image": "https://ibb.co.com/rH5pJTg",
+      "name": "David Willey",
+      "country": "England",
+      "player_role": "Bowler",
+      "rating": 75,
+      "batting_hand": "Left-handed",
+      "market_price": "85,000"
+    },
+    {
+      "image": "https://ibb.co.com/T29QGKQ",
+      "name": "Mitchell Santner",
+      "country": "New Zealand",
+      "player_role": "All-rounder",
+      "rating": 78,
+      "batting_hand": "Left-handed",
+      "market_price": "95,000"
+    },
+    {
+      "image": "https://ibb.co.com/7VRJ9Lf",
+      "name": "Mohammad Hasnain",
+      "country": "Pakistan",
+      "player_role": "Bowler",
+      "rating": 70,
+      "batting_hand": "Right-handed",
+      "market_price": "60,000"
+    },
+    {
+      "image": "https://ibb.co.com/JKC85Qz",
+      "name": "Shimron Hetmyer",
+      "country": "West Indies",
+      "player_role": "Batsman",
+      "rating": 74,
+      "batting_hand": "Left-handed",
+      "market_price": "80,000"
+    },
+    {
+      "image": "https://ibb.co.com/wNy0JNV",
+      "name": "Tom Curran",
+      "country": "England",
+      "player_role": "All-rounder",
+      "rating": 76,
+      "batting_hand": "Right-handed",
+      "market_price": "70,000"
+    },
+    {
+      "image": "https://ibb.co.com/PxcXCm4",
+      "name": "Rahkeem Cornwall",
+      "country": "West Indies",
+      "player_role": "All-rounder",
+      "rating": 69,
+      "batting_hand": "Right-handed",
+      "market_price": "55,000"
+    },
+    {
+      "image": "https://ibb.co.com/5T5pCSn",
+      "name": "Wahab Riaz",
+      "country": "Pakistan",
+      "player_role": "Bowler",
+      "rating": 71,
+      "batting_hand": "Left-handed",
+      "market_price": "65,000"
+    },
+    {
+      "image": "https://ibb.co.com/HDDb5RW",
+      "name": "Khushdil Shah",
+      "country": "Pakistan",
+      "player_role": "Batsman",
+      "rating": 68,
+      "batting_hand": "Left-handed",
+      "market_price": "50,000"
+    },
+    {
+      "image": "https://ibb.co.com/DQ2d2qp",
+      "name": "Roston Chase",
+      "country": "West Indies",
+      "player_role": "All-rounder",
+      "rating": 73,
+      "batting_hand": "Right-handed",
+      "market_price": "90,000"
+    }
+  ]
+  
